@@ -61,7 +61,7 @@ BE Mod 2 Week 1 Solo Project
 
 ## Requirements
 
-- must use Rails 5.1.x
+- must use Rails 5.2.4.3
 - must use PostgreSQL
 - must "handroll" all routes (no use of `resources` syntax)
 - must use `form_tag` for all forms (no use of `form_for`)
