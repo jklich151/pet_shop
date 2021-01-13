@@ -206,6 +206,7 @@
         "lines": [
           1,
           null,
+          1,
           null
         ]
       },
@@ -243,8 +244,24 @@
           1,
           null
         ]
+      },
+      "/Users/jennyklich/turing/5mod/practice/pet_shop/app/controllers/shelters_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/jennyklich/turing/5mod/practice/pet_shop/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1610504147
+    "timestamp": 1610505435
   }
 }

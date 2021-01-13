@@ -1,0 +1,13 @@
+<center>
+  <h1>All Shelters</h1>
+<% @shelters.each do |shelter| %>
+  <h3><a href="/shelters/<%= shelter.id %>"><%= shelter.name %></a></h3>
+
+  <section class="grid-shelter"id="shelter-<%=shelter.id%>">
+    <p><%= shelter.address %></p>
+    <p><%= shelter.city %></p>
+    <p><%= shelter.state %></p>
+    <p><%= shelter.zip %></p>
+  </section>
+<% end %>
+</center>
